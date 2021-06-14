@@ -1,0 +1,131 @@
+<html>
+<head> 
+ 		<title>Menu Desplegable</title>
+		<style type="text/css">
+			
+			* {
+				margin:0px;
+				padding:0px;
+			}
+			
+			#header {
+				margin:auto;
+				width:500px;
+				font-family:Arial, Helvetica, sans-serif;
+			}
+			
+			ul, ol {
+				list-style:none;
+			}
+			
+			.nav > li {
+				float:left;
+			}
+			
+			.nav li a {
+				background-color:#000;
+				color:#fff;
+				text-decoration:none;
+				padding:10px 12px;
+				display:block;
+			}
+			
+			.nav li a:hover {
+				background-color:#434343;
+			}
+			
+			.nav li ul {
+				display:none;
+				position:absolute;
+				min-width:140px;
+			}
+			
+			.nav li:hover > ul {
+				display:block;
+			}
+			
+			.nav li ul li {
+				position:relative;
+			}
+			
+			.nav li ul li ul {
+				right:-140px;
+				top:0px;
+			}
+			
+		</style>
+	</head>
+	<body>
+		<div id="header">
+			<ul class="nav">
+				<li><a href="">Inicio</a></li>
+				<li><a href="">Servicios</a>
+					<ul>
+						<li><a href="">Submenu1</a></li>
+						<li><a href="">Submenu2</a></li>
+						<li><a href="">Submenu3</a></li>
+						<li><a href="">Submenu4</a>
+							<ul>
+								<li><a href="">Submenu1</a></li>
+								<li><a href="">Submenu2</a></li>
+								<li><a href="">Submenu3</a></li>
+								<li><a href="">Submenu4</a></li>
+							</ul>
+						</li>
+					</ul>
+				</li>
+				<li><a href="">Acerca de</a>
+					<ul>
+						<li><a href="">Submenu1</a></li>
+						<li><a href="">Submenu2</a></li>
+						<li><a href="">Submenu3</a></li>
+						<li><a href="">Submenu4</a></li>
+					</ul>
+				</li>
+				<li><a href="">Contacto</a></li>
+			</ul>
+		</div>
+<title> JUGO DE APIO </title>
+</head>
+<body bgcolor="white" marginwidth="50px">
+        <h1 alingn="center">
+        <font color="#f562b0" size="7" face="arial"><u><em>
+         EEL JUGO DE APIO ESTA CURANDO A MILLONES<h1>
+        </font></u></em>
+        </h1>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/X-MT3dhZLIk" title="YouTube video player"
+        frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyoscope; picture-in-picture"
+        allowfullscreen></iframe>
+        <h2>Conoce a Anthony William</h2>
+        <p aling="justify"><big><img src="C:\Users\Paola Sevilla\Videos\MATERIA PAGINAS WEB\JUGO DE APIO\Medical medium.jpg" align="right"
+                                width="400px" height="300px">
+
+                El autor número uno en ventas del New York Times de Medical Medium, Life-Changing Foods, Thyroid Healing, Liver Rescue y Cleanse To Heal
+                nació con la capacidad única de conversar con Spirit of Compassion, quien le brinda informacion de salud extraordinariamente precisa que
+                a menudo está lejos adelantado a su tiempo.
+        </big></p>
+        <p alingn="justify"><big>
+                Desde los cuatro años, cuando sorprendió a su familia al anunciar que su abuela sin síntomas tenía cáncer de pulmón
+                (que las pruebas médicas pronto confirmaron), Antony ha estado usando su don para "leer" las condiciones de las personas
+                y decirles cómo recuperar su salud.
+        </big></p>
+        
+        <p align="justify"><big>
+                Su precisión sin precedentes y su tasa de éxito como médium médico le han ganado la confianza y el amor de millones en todo el mundo
+                entre ellos estrellas de cine, estrellas de rock, multimillonarios, atletas profesionales autores de best-sellers e innumerables otras
+                personas de todos los ámbitos de la vida que no pudieron encontrar una manera de sanar hasta que él les proporciono conocimientos
+                del Espíritu. Anthony tambien se ha convertido en un recurso invaluable para los medicos que necesitan ayuda  para resolver sus casos
+                más dificiles.
+        </big></p>
+        <p align="justify"><big> 
+                Anthony William también es el creador del Movimiento Global de Jugo de Apio. Millones de personas se están recuperando gracias a beber
+                16 onzas de jugo de apio puro con el estómago vacío todos los días, una práctica curativa específica que Anthony ha estado recomendando 
+                desde que era un niño en 1975. Con el lanzamiento de sus cuatro libros más vendidos, todos los cuales incluyen información sobre las 
+		propiedades curativas no descubiertas del jugo de apio, millones de personas han probado el jugo de apio y han descubierto que les ofrece 
+		mejoría, alivio y curación de todo tipo de enfermedades y síntomas agudos y crónicos, incluidos problemas digestivos, afecciones de la 
+		piel, migrañas, fatiga, enfermedades autoinmunes, niebla mental y cientos de otros.
+	</big></p>
+	<ing src="C:\Users\Paola Sevilla\Videos\MATERIA PAGINAS WEB\JUGO DE APIO\Jugo de apio.jpg" align="center">
+ 
+</body>
+</html>
